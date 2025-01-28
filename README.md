@@ -54,5 +54,5 @@ Our game is a top-down arcade inspired by the game Bad Ice Cream. In this game t
 
 ### Developed by
 
-* João Cova; up202307756; 
-* Francisco Fonte; up202305597;
+* João Cova; 
+* Francisco Fonte;
